@@ -1,2 +1,2 @@
 # quickscripts
-Short hitters for useful tooling I have spin up during testing
+Short hitters for useful tooling I spin up during testing
